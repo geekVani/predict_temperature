@@ -1,0 +1,8 @@
+ <resources>
+    <string name="app_name">Cricket Chirps</string>
+    <string name="temperature_info">Did you know that the number of cricket chirps reports the temperature? It’s true! Count the number of chirps in 25 seconds, divide by 3, then add 4 to get the temperature.</string>
+    <string name="todo">TODO</string>
+    <string name="chirp_count">Enter number of chirps in 25 seconds</string>
+    <string name="calculate_temperature">Calculate temperature</string>
+    <string name="textview">TextView</string>
+</resources>
